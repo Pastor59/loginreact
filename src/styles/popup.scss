@@ -1,0 +1,30 @@
+@import 'base.scss';
+
+.popup {    
+    position: absolute;
+    display: flex;
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    background-color: rgba(30, 30, 30, 0.4);
+    z-index: 20;
+    
+
+    &>div {
+        display: flex;
+        width: 100%;
+
+        &>div {
+            align-self: center;
+
+            .card-content {
+                text-align: center;
+
+                .popup-text {
+                    margin-bottom: 20px;
+                }
+            }
+        }
+    }
+}

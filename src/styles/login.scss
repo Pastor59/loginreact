@@ -1,0 +1,47 @@
+@import 'base.scss';
+
+.login-container {
+
+    height: 100%;
+    background-color: #f2f2f2;
+
+    //@media (max-width: $width-landscape-mobile) {
+    //    background-color: $primary-color;
+    //}
+
+    div.row.valign-wrapper {
+        height: calc(100% - 64px);
+        width: 100%;
+        margin-bottom: 0;
+        overflow-y: scroll;
+
+        .card-content{
+
+            .text-fail {
+                color: red;
+            }
+
+            a {
+                width: 100%;
+            }
+
+            .create-account-text, .recover-password-text {
+                text-align: center;
+                margin-bottom: 5px;
+
+                @media (max-width: $width-landscape-mobile) {
+                    margin-bottom: 10px;
+                }
+                
+                a {
+                    color: $primary-color;
+                    cursor: $cursor-clickable;
+                    &:hover{ 
+                        opacity: $hover-opacity;
+                        color: $hover-color;
+                    }
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "navbar": {
+        "login": "Inici sessió",
+        "signup": "Crea compte",
+        "english": "Anglès",
+        "catalan": "Català",
+        "spanish": "Castellà"
+    },
+    "login": {
+        "email": "Correu",
+        "password": "Contrasenya",
+        "login": "Inicia sessió",
+        "notregistered": "Encara no registrat?",
+        "newaccount": "Crear compte nou",
+        "forgotpassword": "Has olvidat la contrasenya?",
+        "clickhere": "Fes clic aquí",
+        "wrongUserPwd": "Usuari i contrasenya incorrectes",
+        "checkemail": "Comprova el teu correu",
+        "useractived": "Usuari activat, pot iniciar sessió",
+        "error": "Alguna cosa no ha funcionat correctament",
+        "links": {
+            "en":"/en/login",
+            "cat":"/cat/inicisessio",
+            "es":"/es/inciarsesion"
+        }
+    },
+    "newaccount": {
+        "newaccount": "Crear compte",
+        "email": "Correu",
+        "password": "Contrasenya",
+        "repeatpassword" :"Repeteix la contrassenya",
+        "pwdmatch": "Les contrasenyes no coincideixen",
+        "invalidemail": "Correu incorrecte",
+        "emailexists": "Un usuari amb aquest correu ja existeix",
+        "pwdlength": "La contraseya ha de tenir com a mínim 7 caràcters",
+        "checkemail": "Comprova el teu correu",
+        "links" : {
+            "en":"/en/createaccount",
+            "cat":"/cat/noucompte",
+            "es":"/es/crearcuenta"
+        }
+    },
+    "recoverpassword": {
+        "email": "Correu",
+        "recoverpassword": "Recuperar contrasenya",
+        "checkemail": "Comprova el teu correu",
+        "emailnotexists": "No existeix cap usuari amb aquest correu",
+        "links" : {
+            "en":"/en/recoverpassword",
+            "cat":"/cat/recuperarcontrasenya",
+            "es":"/es/recuperarcontrasena"
+        }
+    },
+    "emailrecoverpassword": {
+        "changepassword": "Canviar contrasenya",
+        "email": "Correu",
+        "password": "Contrasenya",
+        "repeatpassword" :"Repeteix la contrasenya",
+        "pwdmatch": "Les contrasenyes no coincideixen",
+        "invalidemail": "Correu incorrecte",
+        "emailexists": "Un usuari amb aquest correu ja existeix",
+        "pwdlength": "La contraseya ha de tenir com a mínim 7 caràcters",
+        "passwordchanged": "Contrasenya canviada correctament",
+        "links" : {
+            "en":"/en/emailrecoverpassword",
+            "cat":"/cat/correurecuperarcontrasenya",
+            "es":"/es/correorecuperarcontrasena"
+        }
+    },
+    "popup": {
+        "agree": "Acceptar"
+    },
+    "linkexpired": "El link ha expirat",
+    "failResponse": "La petició no ha pogut ser processada"
+}

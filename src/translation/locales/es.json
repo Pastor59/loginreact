@@ -1,0 +1,76 @@
+{
+    "navbar": {
+        "login": "Iniciar sesión",
+        "signup": "Crear cuenta",
+        "english": "Inglés",
+        "catalan": "Catalán",
+        "spanish": "Castellano"
+    },
+    "login":{
+        "email": "Correo",
+        "password": "Contraseña",
+        "login": "Iniciar sesión",
+        "notregistered": "¿Aún no registrado?",
+        "newaccount": "Crear cuenta nueva",
+        "forgotpassword": "¿Has olvidado la contraseña?",
+        "clickhere": "Haz clic aquí",
+        "wrongUserPwd": "Usuario y contraseña incorrectos",
+        "checkemail": "Comprueba tu correo",
+        "useractived": "Usuario activado, puede iniciar sesión",
+        "error": "Algo no ha funcionado correctamente",
+        "links": {
+            "en":"/en/login",
+            "cat":"/cat/inicisessio",
+            "es":"/es/inciarsesion"
+        }
+    },
+    "newaccount": {
+        "newaccount": "Crear cuenta",
+        "email": "Correo",
+        "password": "Contraseña",
+        "repeatpassword" :"Repite la contrasenya",
+        "pwdmatch": "Las contraseñas no coinciden",
+        "invalidemail": "Correo incorrecto",
+        "emailexists": "Un usuario con ese correo ya existe",
+        "pwdlength": "La contraseña debe tener al menos 7 carácteres",
+        "checkemail": "Comprueba tu correo",
+        "links" : {
+            "en":"/en/createaccount",
+            "cat":"/cat/noucompte",
+            "es":"/es/crearcuenta"
+        }
+    },
+    "recoverpassword": {
+        "email": "Correo",
+        "recoverpassword": "Recuperar contraseña",
+        "checkemail": "Comprueba tu correo",
+        "emailnotexists": "No existe ningún usuario con ese correo",
+        "links" : {
+            "en":"/en/recoverpassword",
+            "cat":"/cat/recuperarcontrasenya",
+            "es":"/es/recuperarcontrasena"
+        }
+    },
+    "emailrecoverpassword": {
+        "changepassword": "Cambiar contraseña",
+        "email": "Correo",
+        "password": "Contraseña",
+        "repeatpassword" :"Repite la contrasenya",
+        "pwdmatch": "Las contraseñas no coinciden",
+        "invalidemail": "Correo incorrecto",
+        "emailexists": "Un usuario con ese correo ya existe",
+        "pwdlength": "La contraseña debe tener al menos 7 carácteres",
+        "popuptext": "Comprueba tu correo",
+        "passwordchanged": "Contraseña cambiada correctamente",
+        "links" : {
+            "en":"/en/emailrecoverpassword",
+            "cat":"/cat/correurecuperarcontrasenya",
+            "es":"/es/correorecuperarcontrasena"
+        }
+    },
+    "popup": {
+        "agree": "Aceptar"
+    },
+    "linkexpired": "El link ha expirado",
+    "failResponse": "La petición no ha podido ser procesada"
+}

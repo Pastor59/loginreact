@@ -1,0 +1,76 @@
+{
+    "navbar": {
+        "login": "Login",
+        "signup": "Sign up",
+        "english": "English",
+        "catalan": "Catalan",
+        "spanish": "Spanish"
+    },
+    "login":{
+        "email": "Email",
+        "password": "Passsword",
+        "login": "Login",
+        "notregistered": "Not registered?",
+        "newaccount": "Create new account",
+        "forgotpassword": "Do you forget the password?",
+        "clickhere": "Click here",
+        "wrongUserPwd": "Invalid credentials",
+        "checkemail": "Check your email",
+        "useractived": "User activated, you could login now",
+        "error": "Something goes wrong",
+        "links": {
+            "en":"/en/login",
+            "cat":"/cat/inicisessio",
+            "es":"/es/inciarsesion"
+        }
+    },
+    "newaccount": {
+        "newaccount": "New account",
+        "email": "Email",
+        "password": "Passsword",
+        "repeatpassword" :"Repeat password",
+        "pwdmatch": "Passwords don't match",
+        "invalidemail": "Invalid email",
+        "emailexists": "An account with this email already exists",
+        "pwdlength": "The password must have at least 7 characters",
+        "checkemail": "Check your email",
+        "links" : {
+            "en":"/en/createaccount",
+            "cat":"/cat/noucompte",
+            "es":"/es/crearcuenta"
+        }
+    },
+    "recoverpassword": {
+        "email": "Email",
+        "recoverpassword": "Recover password",
+        "checkemail": "Check your email",
+        "emailnotexists": "No user for this email",
+        "links" : {
+            "en":"/en/recoverpassword",
+            "cat":"/cat/recuperarcontrasenya",
+            "es":"/es/recuperarcontrasena"
+        }
+    },
+    "emailrecoverpassword": {
+        "changepassword": "Change password",
+        "email": "Email",
+        "password": "Passsword",
+        "repeatpassword" :"Repeat password",
+        "pwdmatch": "Passwords don't match",
+        "invalidemail": "Invalid email",
+        "emailexists": "An account with this email already exists",
+        "pwdlength": "The password must have at least 7 characters",
+        "checkemail": "Check your email",
+        "passwordchanged": "Password changed",
+        "links" : {
+            "en":"/en/emailrecoverpassword",
+            "cat":"/cat/correurecuperarcontrasenya",
+            "es":"/es/correorecuperarcontrasena"
+        }
+    },
+    "popup": {
+        "agree": "Agree"
+    },
+    "linkexpired": "This link has expired",
+    "failResponse": "Something goes wrong"
+}

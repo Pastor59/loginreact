@@ -1,0 +1,6 @@
+{
+    "urlbase": "http://localhost:4000/",
+    "axios": {
+        "contentType": "application/json"
+    }
+}
